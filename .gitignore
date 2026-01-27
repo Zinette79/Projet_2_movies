@@ -1,0 +1,14 @@
+# Datasets bruts
+data/raw/
+*.tsv
+*.tsv.gz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+
+# Environnements
+.venv/
+.env
