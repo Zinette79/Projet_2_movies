@@ -13,5 +13,3 @@ __pycache__/
 .venv/
 .env
 
-
-!data/raw/README.md
