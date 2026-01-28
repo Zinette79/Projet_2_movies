@@ -12,3 +12,6 @@ __pycache__/
 # Environnements
 .venv/
 .env
+
+
+!data/raw/README.md

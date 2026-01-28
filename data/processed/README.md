@@ -1,0 +1,1 @@
+Ce dossier contiendra les données nettoyées et légères donc importables. Ne pas faire de push sur ce dossier, seul le scrum peut l'update.
